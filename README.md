@@ -8,12 +8,9 @@
 - 💬 擅长的方向是什么
 - ⚡ 有趣的事实
 
-## 🛠️ 技术栈
-- **语言**: Python, JavaScript, TypeScript, Java
-- **前端**: React, Vue, HTML/CSS
-- **后端**: Node.js, Django, Spring
-- **数据库**: MySQL, PostgreSQL, MongoDB
-- **工具**: Git, Docker, VS Code
+## 🛠️ tech stack
+Lang%Framework
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 📊 GitHub 统计
 ![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=yuxianghuang159-cmyk&show_icons=true&theme=radical)
