@@ -1,8 +1,8 @@
-# 你好，我是 [你的名字] 👋
+# 👋 Hello, welcome to my profile 
+你好呀!我是Amokay,你也可以叫我翔哥
+Hi! I am Amokay. You can also call me Xiangge 
 
-简短的一句话介绍自己（比如：全栈开发者 | AI 爱好者 | 开源贡献者）
-
-## 🎯 关于我
+##  🤲🏻About me?
 - 🔭 目前在做什么项目
 - 🌱 正在学习什么技术
 - 💬 擅长的方向是什么
@@ -12,7 +12,7 @@
 <p style="line-height:1.5;font-weight:bold">
 Lang&Framework</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue)](https://skillicons.dev)
 
 ## 📊 GitHub 统计
 ![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=yuxianghuang159-cmyk&show_icons=true&theme=radical)
