@@ -1,46 +1,42 @@
 # 👋 Hello, welcome to my profile 
-你好呀!我是Amokay,你也可以叫我翔哥
+你好呀!我是Amokay,你也可以叫我翔哥<br>
 Hi! I am Amokay. You can also call me Xiangge 
 
 ##  🤲🏻About me?
-- 🔭 目前在做什么项目
-- 🌱 正在学习什么技术
-- 💬 擅长的方向是什么
-- ⚡ 有趣的事实
-
+- 🔭 目前在做什么项目? 硅谷甄选
+- 🔭 What am I doing now? Silicon Valley Selection
+- 🌱 正在学习什么技术 vue3
+- 🌱 What tech am I learning now? vue3
+- 💬 擅长的方向是什么 暂无
+- 💬 Which direction am I good at now? nope
 ## 🛠️ tech stack
 <p style="line-height:1.5;font-weight:bold">
 Lang&Framework</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,ts,vue,tailwind,pinia,python,nuxt)](https://skillicons.dev)
 
-## 📊 GitHub 统计
-![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=yuxianghuang159-cmyk&show_icons=true&theme=radical)
+<p style="line-height:1.5;font-weight:bold">
+Operating System</p>
 
-## 🔗 链接
-- [个人博客](你的博客链接)
-- [LinkedIn](你的LinkedIn)
-- [Twitter](你的Twitter)
-- [邮箱](mailto:your-email@example.com)
+[![My Skills](https://skillicons.dev/icons?i=apple,linux)](https://skillicons.dev)
 
-## 📈 最近项目
-- [项目名称](项目链接) - 项目简介
-- [项目名称](项目链接) - 项目简介
+<p style="line-height:1.5;font-weight:bold">
+Tools</p>
 
----
-⭐️ 如果你喜欢我的项目，请给个 Star！
+[![My Skills](https://skillicons.dev/icons?i=git,docker,npm,pnpm,vite,figma)](https://skillicons.dev)
 
-<!--
-**yuxianghuang159-cmyk/yuxianghuang159-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p style="line-height:1.5;font-weight:bold">
+Service</p>
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=postgresql,supabase,cloudflare)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+## 📗Language
+- Simplified Chinese/中文(native)
+- English(basic)
+
+
+
