@@ -4,7 +4,7 @@ Hi! I am Amokay. You can also call me Xiangge
 
 ##  🤲🏻About me?
 - 🔭 目前在做什么项目? 硅谷甄选
-- 🔭 What am I doing now? Silicon Valley Selection
+- 🔭 What project am I doing now? Silicon Valley Selection
 - 🌱 正在学习什么技术 vue3
 - 🌱 What tech am I learning now? vue3
 - 💬 擅长的方向是什么 暂无
