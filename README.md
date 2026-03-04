@@ -9,7 +9,7 @@
 - ⚡ 有趣的事实
 
 ## 🛠️ tech stack
-Lang%Framework
+Lang&Framework<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 📊 GitHub 统计
