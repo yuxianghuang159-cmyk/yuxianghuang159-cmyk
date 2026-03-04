@@ -10,7 +10,7 @@
 
 ## 🛠️ tech stack
 <p style="line-height:1.5;font-weight:bold">
-Lang&Framework</p><br>
+Lang&Framework</p>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 📊 GitHub 统计
